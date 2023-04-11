@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.de7c0dfb.css",
-    "main.js": "/portfolio/static/js/main.26a6c8da.js",
+    "main.css": "/portfolio/static/css/main.403ae9a0.css",
+    "main.js": "/portfolio/static/js/main.a5185f98.js",
     "static/media/pictic.jpg": "/portfolio/static/media/pictic.d31b87137c4e7d0c4bf5.jpg",
-    "static/media/pictic2.jpg": "/portfolio/static/media/pictic2.0666b75e9516b7d55286.jpg",
-    "static/media/pictic3.jpg": "/portfolio/static/media/pictic3.6de8e004f5cd2435b7f2.jpg",
+    "static/media/skills-image.png": "/portfolio/static/media/skills-image.51e40da64df180a7669a.png",
+    "static/media/contact-image.jpeg": "/portfolio/static/media/contact-image.37fcb61b49d6aa5c40d3.jpeg",
     "static/media/Othmane Dendane.pdf": "/portfolio/static/media/Othmane Dendane.692e1746dd73ab681009.pdf",
-    "static/media/p2.jpg": "/portfolio/static/media/p2.baa08cf9ed1b6b86b5f7.jpg",
+    "static/media/project-1.jpeg": "/portfolio/static/media/project-1.6b28361a8c2bf6a9ccdb.jpeg",
+    "static/media/project-5.jpeg": "/portfolio/static/media/project-5.4ac31e8e38259e23034f.jpeg",
+    "static/media/project-2.jpeg": "/portfolio/static/media/project-2.6e7a7eee04d6442f84e0.jpeg",
     "static/media/brush.png": "/portfolio/static/media/brush.85c9bab5ba2d7dcae1e3.png",
+    "static/media/project-7.jpeg": "/portfolio/static/media/project-7.c4fa8d117f22690fbfcd.jpeg",
+    "static/media/project-3.jpeg": "/portfolio/static/media/project-3.c78c5797658052b2fc2e.jpeg",
+    "static/media/project-4.jpeg": "/portfolio/static/media/project-4.62bb407df7bcc3066f95.jpeg",
+    "static/media/project-6.jpeg": "/portfolio/static/media/project-6.7f62f62a3bfe5217189c.jpeg",
     "index.html": "/portfolio/index.html",
-    "main.de7c0dfb.css.map": "/portfolio/static/css/main.de7c0dfb.css.map",
-    "main.26a6c8da.js.map": "/portfolio/static/js/main.26a6c8da.js.map"
+    "main.403ae9a0.css.map": "/portfolio/static/css/main.403ae9a0.css.map",
+    "main.a5185f98.js.map": "/portfolio/static/js/main.a5185f98.js.map"
   },
   "entrypoints": [
-    "static/css/main.de7c0dfb.css",
-    "static/js/main.26a6c8da.js"
+    "static/css/main.403ae9a0.css",
+    "static/js/main.a5185f98.js"
   ]
 }
