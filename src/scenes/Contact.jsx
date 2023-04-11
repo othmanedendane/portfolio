@@ -2,6 +2,7 @@ import LineGradient from "../components/LineGradient";
 import { useForm } from "react-hook-form";
 import { motion } from "framer-motion";
 import emailjs from "emailjs-com";
+import Image from "../assets/contact-image.jpeg";
 
 const Contact = () => {
     const {
@@ -57,7 +58,7 @@ const Contact = () => {
                      hidden: { opacity: 0, y: -50}, //opacity:0=not visible, start -50 from x 
                      visible: { opacity: 1, y: 0} //goes to an opacity of 1=visible, and from a postion of -50 to 0
                  }}>
-                    <img src="../assets/contact-image.jpeg" alt="contact" />
+                    <img src={Image} alt="contact" />
                 </motion.div>
 
                 <motion.div

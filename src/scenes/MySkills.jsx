@@ -1,6 +1,7 @@
 import LineGradient from "../components/LineGradient";
 import useMediaQuery from "../hooks/useMediaQuery";
 import { motion } from "framer-motion";
+import Image from "../assets/skills-image.png";
 
 const MySkills = () => {
 
@@ -40,7 +41,7 @@ return (
                         <img 
                         alt="skills"
                         className="z-10" //so that it pops up
-                        src="assets/skills-image.png"
+                        src={Image}
                         
                         />
                     </div>
@@ -48,7 +49,7 @@ return (
             ) : (
                 <img alt="skills"
                 className="z-10" //so that it pops up
-                src="assets/skills-image.png"
+                src={Image}
                 
                 />
             )}

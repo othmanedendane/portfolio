@@ -1,5 +1,8 @@
 
 import Image1 from "../assets/github.png";
+import Image2 from '../assets/linkedin.png';
+import Image3 from "../assets/facebook.png";
+import Image4 from "../assets/instagram.png";
 
 
 const SocialMediaIcons = () => {
@@ -12,7 +15,7 @@ const SocialMediaIcons = () => {
              rel="noreferrer" //to have no issues with older browsers
             >
 
-                <img alt="linkedin-link" src="../assets/linkedin.png" />
+                <img alt="linkedin-link" src={Image2} />
 
             </a>
 
@@ -34,7 +37,7 @@ const SocialMediaIcons = () => {
              rel="noreferrer" //to have no issues with older browsers
             >
 
-                <img alt="facebook-link" src="../assets/facebook.png" />
+                <img alt="facebook-link" src={Image3} />
 
             </a>
 
@@ -45,7 +48,7 @@ const SocialMediaIcons = () => {
              rel="noreferrer" //to have no issues with older browsers
             >
 
-                <img alt="instagram-link" src="../assets/instagram.png" />
+                <img alt="instagram-link" src={Image4} />
 
             </a>
 

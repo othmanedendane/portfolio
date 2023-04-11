@@ -3,10 +3,9 @@ import useMediaQuery from "../hooks/useMediaQuery";
 import { motion } from "framer-motion";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 
-import Image1 from "../assets/p2.jpg";
+
 import Image2 from "../assets/pictic.jpg";
-import Image3 from "../assets/pictic2.jpg";
-import Image4 from "../assets/pictic3.jpg";
+
 
 
 

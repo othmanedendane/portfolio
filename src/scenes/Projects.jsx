@@ -1,6 +1,14 @@
 import LineGradient from "../components/LineGradient";
 import { motion } from "framer-motion";
 import { Link } from 'react-router-dom';
+import ff from '../assets/project-1.jpeg';
+import gg from '../assets/project-2.jpeg';
+import three from '../assets/project-3.jpeg';
+import four from '../assets/project-4.jpeg';
+import five from '../assets/project-5.jpeg';
+import six from '../assets/project-6.jpeg';
+import seven from '../assets/project-7.jpeg';
+
 
 const container = {
     hidden: {},
@@ -20,22 +28,9 @@ const Project = ({ title }) => {
     bg-grey z-30 flex flex-col justify-center items-center text-center p-16 text-deep-blue`;
     const projectTitle = title.split(" ").join("-").toLowerCase();
 
-    const project1 = 'https://othmanedendane.github.io/homeN/';
+    
 
-    return(
-        <motion.div variant={projectVariant} className="relative">
-            <div className={overlayStyles}>
-                <p className="text-2xl font-playfair">{title}</p>
-                <p className="mt-7">
-                Click here for more
-                    
-
-                </p>
-                
-            </div>
-            <img src={`../assets/${projectTitle}.jpeg`} alt={projectTitle} />
-        </motion.div>
-    )
+    
 }
 
 const Projetcs = () => {
@@ -79,26 +74,33 @@ const Projetcs = () => {
                             Beautiful User Interfaces
                         </div>
                         <a href='https://youtu.be/BDQizaOYRZQ'>
+                        <img src={ff} alt="project1" />
                         <Project title="Project 1"/>
                         </a>
                         <a href='https://othmanedendane.github.io/morocco/'>
+                        <img src={gg} alt="project2" />
                         <Project title="Project 2"/>
                         </a>
                         {/* Row 2 */}
                         <a href='https://youtu.be/_YONHX7SFik'>
+                        <img src={three} alt="project3" />
                         <Project title="Project 3" />
                         </a>
                         <a href='https://othmanedendane.github.io/meteo'>
+                        <img src={four} alt="project4" />
                         <Project title="Project 4" />
                         </a>
                         <a href='https://othmanedendane.github.io/chess'>
+                        <img src={five} alt="project5" />
                         <Project title="Project 5" />
                         </a>
                         {/* Row 3 */}
                         <a href='https://othmanedendane.github.io/shop'>
+                        <img src={six} alt="project6" />
                         <Project title="Project 6" />
                         </a>
                         <a href='https://othmanedendane.github.io/arcade'>
+                        <img src={seven} alt="project7" />
                         <Project title="Project 7" />
                         </a>
                         <div className="flex justify-center text-center items-center p-10 bg-blue
