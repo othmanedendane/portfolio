@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.de7c0dfb.css",
+    "main.js": "/portfolio/static/js/main.26a6c8da.js",
+    "static/media/pictic.jpg": "/portfolio/static/media/pictic.d31b87137c4e7d0c4bf5.jpg",
+    "static/media/pictic2.jpg": "/portfolio/static/media/pictic2.0666b75e9516b7d55286.jpg",
+    "static/media/pictic3.jpg": "/portfolio/static/media/pictic3.6de8e004f5cd2435b7f2.jpg",
+    "static/media/Othmane Dendane.pdf": "/portfolio/static/media/Othmane Dendane.692e1746dd73ab681009.pdf",
+    "static/media/p2.jpg": "/portfolio/static/media/p2.baa08cf9ed1b6b86b5f7.jpg",
+    "static/media/brush.png": "/portfolio/static/media/brush.85c9bab5ba2d7dcae1e3.png",
+    "index.html": "/portfolio/index.html",
+    "main.de7c0dfb.css.map": "/portfolio/static/css/main.de7c0dfb.css.map",
+    "main.26a6c8da.js.map": "/portfolio/static/js/main.26a6c8da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de7c0dfb.css",
+    "static/js/main.26a6c8da.js"
+  ]
+}
